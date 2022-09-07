@@ -4,26 +4,19 @@ This project was built with NodeJS, Webpack, Bable, and deployed through Heroku 
 1. Install NodeJS
 2. Copy repository
 3. Run `npm install`
-4. 
-5. 
+
+Or visit the Heroku deployed site [here](https://nm-text-editor.herokuapp.com/)
 
 ## Usage
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
+1. Start up application
+2. Type into text editor
+3. Click "Install" to install application
 
-The video below shows testing of various methods for manipulating the SQL server.
-![](./assets/placeholder.gif)
+![](./assets/jate.png)
 
 ## Questions
 For additional information you can reach out at the GitHub account "NikolasMazur".
 
 ## To-do
-1. 
-2. 
+1. Fix get/putDb implementation
+2. Fix e.split function error
